@@ -1,4 +1,4 @@
-Test
+Test With SKIP CI
 # GitHub Actions Fundamentals
 
 Repo for the `GitHub Actions Fundamentals` training.
