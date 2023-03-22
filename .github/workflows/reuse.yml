@@ -4,9 +4,9 @@ on: [workflow_dispatch]
 
 jobs:
   call-workflow:
-  uses: ./.github/workflows/reusable.yml
-  with:
-    who-to-greet: 'Roxana'
+    uses: ./.github/workflows/reusable.yml
+    with:
+      who-to-greet: 'Roxana'
     
   use-output:
     runs-on: ubuntu-latest
